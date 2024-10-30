@@ -1,0 +1,62 @@
+
+
+.icon {
+    margin-left: 40px;
+}
+
+
+
+.flower1 {
+    background-image: url('./flower4.jpg'); 
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+  
+
+
+
+.box {
+    padding: 30px;
+  
+    max-width: 1500px;
+
+    display: flex;
+    align-items: center;
+    background-color:aqua;
+    color: blue;
+    font-style: italic;
+
+}
+
+.box2{
+   
+    
+        padding: 30px;
+      
+        max-width: 1500px;
+        display: flex;
+        align-items: center;
+        background-color:bisque;
+        color:brown;
+        font-style:unset;
+
+
+}
+.box3{
+    padding: 30px;
+      
+    max-width: 1500px;
+    display: flex;
+    align-items: center;
+    background-color:blueviolet;
+    color:rgb(221, 226, 222);
+    font-style:normal;
+    
+}
+
+
